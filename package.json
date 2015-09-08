@@ -1,0 +1,14 @@
+{
+  "name": "ttyplay.js",
+  "preferGlobal": false,
+  "version": "0.1.0",
+  "author": "Latchezar Tzvetkoff <latchezar[foo]tzvetkoff[bar]net>",
+  "description": "ttyplay in javascript",
+  "dependencies" : {
+  	"mkdirp": "",
+  	"rimraf": "",
+    "node-sass": "",
+    "uglify-js": "",
+    "jsdoc": ""
+  }
+}
