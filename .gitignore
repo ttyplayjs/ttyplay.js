@@ -1,0 +1,23 @@
+# MacOS X
+.DS_Store
+._.*
+
+# Output
+/.sass-cache/
+/src/**/*.map
+/src/**/*.css
+/example/**/*.map
+/example/**/*.css
+
+# Node stuff
+/node_modules/
+
+# Ruby stuff
+/.ruby-version
+/.ruby-gemset
+/Gemfile
+/Gemfile.lock
+
+# Just in case
+/misc/
+/tmp/
