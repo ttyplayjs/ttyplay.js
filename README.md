@@ -15,8 +15,8 @@ new TTYPlay('some-id', {
 
 For a more detailed example, check:
 
-- [TTYPlay.org](http://ttyplay.org/)
-- [The documentation](http://ttyplay.org/ttyplay.js/)
+- [ttyplayjs.github.io](http://ttyplayjs.github.io/)
+- [The documentation](http://ttyplayjs.github.io/ttyplay.js/)
 
 ## Credits
 
